@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Asp.net\\University Management System\\UniversityManagement.csproj": {}
+    "D:\\Projects\\Asp.net\\University-Git\\UniversityAutomation\\UniversityManagement.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Asp.net\\University Management System\\UniversityManagement.csproj": {
+    "D:\\Projects\\Asp.net\\University-Git\\UniversityAutomation\\UniversityManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Asp.net\\University Management System\\UniversityManagement.csproj",
+        "projectUniqueName": "D:\\Projects\\Asp.net\\University-Git\\UniversityAutomation\\UniversityManagement.csproj",
         "projectName": "UniversityManagement",
-        "projectPath": "D:\\Projects\\Asp.net\\University Management System\\UniversityManagement.csproj",
+        "projectPath": "D:\\Projects\\Asp.net\\University-Git\\UniversityAutomation\\UniversityManagement.csproj",
         "packagesPath": "C:\\Users\\AnkitSrivastava\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Asp.net\\University Management System\\obj\\",
+        "outputPath": "D:\\Projects\\Asp.net\\University-Git\\UniversityAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AnkitSrivastava\\AppData\\Roaming\\NuGet\\NuGet.Config",
