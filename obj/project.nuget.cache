@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nm3nn8bUv0nE2qu0q4WEsk8iK3pkxXKw6GZT+59wIcU+ufpXaylm+jwPH70Ka5OlDktcVQ+qIjP50leioT6bJg==",
+  "dgSpecHash": "+16kLuEtpmD3fc8qrZhle6m/e0u8GufAx6rzemc/dPqmdCmJxuEYtWhXbdwqBCvE3kpVzSf355r2IIbCYQwijg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Asp.net\\University Management System\\UniversityManagement.csproj",
+  "projectFilePath": "D:\\Projects\\Asp.net\\University-Git\\UniversityAutomation\\UniversityManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AnkitSrivastava\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\AnkitSrivastava\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
